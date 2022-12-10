@@ -3,14 +3,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/yuchenECNU">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuchenECNU&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuchenECNU&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/yuchen-ecnu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuchen-ecnu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuchen-ecnu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <!--
-**yuchenECNU/yuchenECNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuchen-ecnu/yuchen-ecnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
